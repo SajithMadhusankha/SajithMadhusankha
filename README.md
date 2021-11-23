@@ -6,7 +6,7 @@ Interested in Web Development
 
 ### 📫 Reach me via:
 <a href="https://www.linkedin.com/in/sajith-madhusankha-93681b180/">
-<img src="LinkedIn_logo.png" alt="https://www.linkedin.com/in/sajith-madhusankha-93681b180/" width="50" height="50">
+<img src="LinkedIn_logo.png" alt="https://www.linkedin.com/in/sajith-madhusankha-93681b180/" width="30" height="30">
 </a>
 <!-- [<img](https://www.linkedin.com/in/sajith-madhusankha-93681b180/) -->
 <!--
