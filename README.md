@@ -15,10 +15,9 @@ Interested in Web Development
 
 ### 📈 My GitHub Stats 
 <hr>
-<p>
 ![SajithMadhusankha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajithMadhusankha&show_icons=true&theme=dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajithMadhusankha&theme=dark) 
-  </p>
+
 
 
 <!-- [<img](https://www.linkedin.com/in/sajith-madhusankha-93681b180/) -->
