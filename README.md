@@ -10,7 +10,7 @@ Interested in Web Development
 <a href="https://www.linkedin.com/in/sajith-madhusankha-93681b180/">
 <img src="LinkedIn_logo.png" alt="https://www.linkedin.com/in/sajith-madhusankha-93681b180/" width="30" height="30">
 </a>
-
+### 📈 My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajithMadhusankha)](https://github.com/SajithMadhusankha/github-readme-stats)
 
 <!-- [<img](https://www.linkedin.com/in/sajith-madhusankha-93681b180/) -->
