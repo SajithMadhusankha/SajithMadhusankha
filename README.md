@@ -1,5 +1,5 @@
-### Hello World! 👋 
-<hr>
+### Hello World! 👋 <hr>
+
 ![](https://komarev.com/ghpvc/?username=SajithMadhusankha)
 
 
@@ -7,8 +7,8 @@ Final Year Undergraduate<br>
 Faculty of Information Technology, University of Moratuwa, Sri Lanka<br>
 Interested in Web Development
 
-### 📫 Reach me via:
-<hr>
+### 📫 Reach me via: <hr>
+
 <a href="https://www.linkedin.com/in/sajith-madhusankha-93681b180/">
 <img src="LinkedIn_logo.png" alt="https://www.linkedin.com/in/sajith-madhusankha-93681b180/" width="30" height="30">
 </a><br>
