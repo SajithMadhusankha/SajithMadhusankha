@@ -1,4 +1,4 @@
-### Hello World! 👋 <hr noshade>
+### Hello World! 👋 <hr color="red" size="10">
 
 ![](https://komarev.com/ghpvc/?username=SajithMadhusankha)
 
