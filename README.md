@@ -5,7 +5,10 @@ Faculty of Information Technology, University of Moratuwa, Sri Lanka<br>
 Interested in Web Development
 
 ### 📫 Reach me via:
-[LinkedIn](https://www.linkedin.com/in/sajith-madhusankha-93681b180/)
+<a href="https://www.linkedin.com/in/sajith-madhusankha-93681b180/">
+<img src="w3html.gif" alt="https://www.linkedin.com/in/sajith-madhusankha-93681b180/" width="100" height="132">
+</a>
+<!-- [<img](https://www.linkedin.com/in/sajith-madhusankha-93681b180/) -->
 <!--
 **SajithMadhusankha/SajithMadhusankha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
