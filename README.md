@@ -11,6 +11,8 @@ Interested in Web Development
 <img src="LinkedIn_logo.png" alt="https://www.linkedin.com/in/sajith-madhusankha-93681b180/" width="30" height="30">
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajithMadhusankha)](https://github.com/SajithMadhusankha/github-readme-stats)
+
 <!-- [<img](https://www.linkedin.com/in/sajith-madhusankha-93681b180/) -->
 <!--
 **SajithMadhusankha/SajithMadhusankha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
