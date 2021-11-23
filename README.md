@@ -12,7 +12,7 @@ Interested in Web Development
 </a><br>
 
 ### 📈 My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![SajithMadhusankha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajithMadhusankha&show_icons=true&theme=radical)
 
 
 <!-- [<img](https://www.linkedin.com/in/sajith-madhusankha-93681b180/) -->
