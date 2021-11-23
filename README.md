@@ -12,9 +12,10 @@ Interested in Web Development
 </a><br>
 
 ### 📈 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajithMadhusankha&theme=dark) ![SajithMadhusankha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajithMadhusankha&show_icons=true&theme=dark)
+![SajithMadhusankha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajithMadhusankha&show_icons=true&theme=dark)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajithMadhusankha&theme=dark) 
 
 
 <!-- [<img](https://www.linkedin.com/in/sajith-madhusankha-93681b180/) -->
