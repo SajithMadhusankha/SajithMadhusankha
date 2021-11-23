@@ -1,4 +1,6 @@
 ### Hello World! 👋
+![](https://komarev.com/ghpvc/?username=SajithMadhusankha)
+
 
 Final Year Undergraduate<br>
 Faculty of Information Technology, University of Moratuwa, Sri Lanka<br>
