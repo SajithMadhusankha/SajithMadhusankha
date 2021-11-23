@@ -3,9 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=SajithMadhusankha)
 
 
-I'm a Final Year Undergraduate in<br>
-Faculty of Information Technology, University of Moratuwa, Sri Lanka<br>
-I'm Interested in Web Development
+<span class="dot"></span>I'm a Final Year Undergraduate in Faculty of Information Technology, University of Moratuwa, Sri Lanka.<br>
+I'm Interested in Web Development.
 
 ### 📫 Reach me via: <hr>
 
