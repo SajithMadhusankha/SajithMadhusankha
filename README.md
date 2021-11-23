@@ -1,4 +1,4 @@
-### Hello World! 👋 <hr color="red" size="10">
+### Hello World! 👋 <hr width="70%" color="red" size="10">
 
 ![](https://komarev.com/ghpvc/?username=SajithMadhusankha)
 
