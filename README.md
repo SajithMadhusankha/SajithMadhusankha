@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 Final Year Undergraduate<br>
 Faculty of Information Technology, University of Moratuwa, Sri Lanka<br>
@@ -6,7 +6,7 @@ Interested in Web Development
 
 ### 📫 Reach me via:
 <a href="https://www.linkedin.com/in/sajith-madhusankha-93681b180/">
-<img src="LinkedIn_logo.png" alt="https://www.linkedin.com/in/sajith-madhusankha-93681b180/" width="80" height="80">
+<img src="LinkedIn_logo.png" alt="https://www.linkedin.com/in/sajith-madhusankha-93681b180/" width="50" height="50">
 </a>
 <!-- [<img](https://www.linkedin.com/in/sajith-madhusankha-93681b180/) -->
 <!--
