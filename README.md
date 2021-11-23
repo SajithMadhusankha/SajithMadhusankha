@@ -1,5 +1,5 @@
 ### Hello World! 👋 
-<hr size="0.5">
+<hr size="">
 ![](https://komarev.com/ghpvc/?username=SajithMadhusankha)
 
 
