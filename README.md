@@ -13,9 +13,12 @@ Interested in Web Development
 <img src="LinkedIn_logo.png" alt="https://www.linkedin.com/in/sajith-madhusankha-93681b180/" width="30" height="30">
 </a><br>
 
-### 📈 My GitHub Stats <hr>
+### 📈 My GitHub Stats 
+<hr>
+<p>
 ![SajithMadhusankha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajithMadhusankha&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajithMadhusankha&theme=dark) 
+  </p>
 
 
 <!-- [<img](https://www.linkedin.com/in/sajith-madhusankha-93681b180/) -->
